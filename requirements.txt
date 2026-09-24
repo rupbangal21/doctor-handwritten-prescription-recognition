@@ -1,0 +1,12 @@
+transformers
+datasets
+evaluate
+accelerate
+thefuzz
+python-Levenshtein
+jiwer
+torch
+torchvision
+opencv-python
+numpy
+pandas
